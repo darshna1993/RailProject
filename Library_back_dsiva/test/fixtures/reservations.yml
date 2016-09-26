@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  size: MyString
+  library: MyString
+  date: 2016-09-25
+  time: 2016-09-25 12:58:46
+
+two:
+  size: MyString
+  library: MyString
+  date: 2016-09-25
+  time: 2016-09-25 12:58:46
